@@ -1,2 +1,0 @@
-This is a test file to verify git identity configuration.
-Commit should show ashmitsingh7 as the author.
